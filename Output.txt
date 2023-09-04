@@ -1,0 +1,7 @@
+OUTPUT:
+
+        Enter the number of mangoes Ryan needed to take from tree: 8
+        number of fruits watchman1 had got: 4.0
+        number of fruits watchman2 had got: 2.0
+        number of fruits watchman3 had got: 1.0
+        balance fruits Ryan got at last: 1.0 Mango
